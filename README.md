@@ -10,7 +10,8 @@ Dependencies: package mpris-remote
 Bind the media keys to the script using the args to switch the commands.
 
 Example:
-$ spotify-keys.sh PlayPause
-$ spotify-keys.sh Stop
-$ spotify-keys.sh Next
-$ spotify-keys.sh Previous
+
+    $ spotify-keys.sh PlayPause
+    $ spotify-keys.sh Stop
+    $ spotify-keys.sh Next
+    $ spotify-keys.sh Previous
